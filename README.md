@@ -123,7 +123,7 @@ This is a **production-grade codebase** open for contributions and collaboration
 **Get Started:**
 
 ```bash
-git clone https://github.com/abhishekprajapatt/rabbit.git
+git clone https://github.com/hitanshuchauhan009/Rabbit.git
 cd rabbit
 npm install
 npm run dev
